@@ -164,7 +164,7 @@ Domains=~.
 * [Legacy (GTK3) Theme Scheme Auto Switcher](https://extensions.gnome.org/extension/4998/legacy-gtk3-theme-scheme-auto-switcher/)
 * [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)
 * [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
-* [Wireless HID](https://extensions.gnome.org/extension/4328/wireless-hid/)
+* [Wireless HID](https://extensions.gnome.org/extension/4228/wireless-hid/)
 * [Logo Menu](https://extensions.gnome.org/extension/4451/logo-menu/)
 * [Space Bar](https://github.com/christopher-l/space-bar)
 
