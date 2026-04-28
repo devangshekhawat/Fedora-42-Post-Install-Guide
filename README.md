@@ -98,6 +98,7 @@ sudo dnf group install -y sound-and-video # Installs useful Sound and Video comp
 sudo dnf install mesa-va-drivers-freeworld
 sudo dnf install mesa-va-drivers-freeworld.i686
 ```
+</details>
 
 ### OpenH264 for Firefox
 * `sudo dnf install -y openh264 gstreamer1-plugin-openh264 mozilla-openh264`
